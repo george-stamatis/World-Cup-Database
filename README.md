@@ -5,7 +5,7 @@ This project is part of the freeCodeCamp curriculum for the "Relational Database
 # Project Description
 Bringing the excitement of the FIFA World Cup into the realm of databases, this project aims to construct a comprehensive database that captures essential information about the matches played in the final three rounds of the tournament since 2014. Inspired by the passion and enthusiasm of football fans worldwide, the World Cup Database project focuses on structuring data in a way that facilitates organized retrieval and analysis.
 
-Key aspects of the project include:
+# Key aspects 
 
 - Designing a database schema tailored to FIFA World Cup data, defining tables with appropriate columns to represent matches, teams, and match details accurately.
 
